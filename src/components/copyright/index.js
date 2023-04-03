@@ -18,71 +18,18 @@ const Copyright = (props) => {
                 }}
               />
             </span>
-            <span>
-              <span
-                dangerouslySetInnerHTML={{
-                  __html: ' ',
-                }}
-              />
-            </span>
+           
           </span>
-          <a
-            href="https://www.Bhargav.io"
-            target="_blank"
-            rel="noreferrer noopener"
-          >
+         
             <span className="copyright-text04">@Bhargav.</span>
-          </a>
-          <span className="copyright-text05">
-            <span>
-              {' '}
-              Powered by
-              <span
-                dangerouslySetInnerHTML={{
-                  __html: ' ',
-                }}
-              />
-            </span>
-            <span>
-              <span
-                dangerouslySetInnerHTML={{
-                  __html: ' ',
-                }}
-              />
-            </span>
-          </span>
-          <a
-            href="https://www.vercel.com"
-            target="_blank"
-            rel="noreferrer noopener"
-          >
-            <span className="copyright-text08">Vercel</span>
-          </a>
-          <span className="copyright-text09">
-            <span>
-              . Image source:
-              <span
-                dangerouslySetInnerHTML={{
-                  __html: ' ',
-                }}
-              />
-            </span>
-            <span>
-              <span
-                dangerouslySetInnerHTML={{
-                  __html: ' ',
-                }}
-              />
-            </span>
-          </span>
-          <a
-            href="https://www.unsplash.com"
-            target="_blank"
-            rel="noreferrer noopener"
-          >
-            <span className="copyright-text12">Unsplash</span>
-          </a>
-          <span className="copyright-text13">.</span>
+      
+         
+       
+           
+     
+      
+        
+         
         </span>
       </div>
     </div>
